@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.AssemblyInfo.cs
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/Exercício19
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/Exercício19.deps.json
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/Exercício19.runtimeconfig.json
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/Exercício19.dll
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/ref/Exercício19.dll
+/home/daianarussi/Documentos/Treinando/Exercício19/bin/Debug/net6.0/Exercício19.pdb
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.dll
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/ref/Exercício19.dll
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.pdb
+/home/daianarussi/Documentos/Treinando/Exercício19/obj/Debug/net6.0/Exercício19.genruntimeconfig.cache

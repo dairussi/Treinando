@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/Exercício16
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/Exercício16.deps.json
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/Exercício16.runtimeconfig.json
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/Exercício16.dll
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/ref/Exercício16.dll
+/home/daianarussi/Documentos/Treinando/Exercício16/bin/Debug/net6.0/Exercício16.pdb
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.AssemblyInfo.cs
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.dll
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/ref/Exercício16.dll
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.pdb
+/home/daianarussi/Documentos/Treinando/Exercício16/obj/Debug/net6.0/Exercício16.genruntimeconfig.cache

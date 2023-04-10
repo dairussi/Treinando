@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/daianarussi/Downloads/Treinando/Exercício6/Exercício6.csproj": {}
+    "/home/daianarussi/Documentos/Treinando/Exercício6/Exercício6.csproj": {}
   },
   "projects": {
-    "/home/daianarussi/Downloads/Treinando/Exercício6/Exercício6.csproj": {
+    "/home/daianarussi/Documentos/Treinando/Exercício6/Exercício6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daianarussi/Downloads/Treinando/Exercício6/Exercício6.csproj",
+        "projectUniqueName": "/home/daianarussi/Documentos/Treinando/Exercício6/Exercício6.csproj",
         "projectName": "Exercício6",
-        "projectPath": "/home/daianarussi/Downloads/Treinando/Exercício6/Exercício6.csproj",
+        "projectPath": "/home/daianarussi/Documentos/Treinando/Exercício6/Exercício6.csproj",
         "packagesPath": "/home/daianarussi/.nuget/packages/",
-        "outputPath": "/home/daianarussi/Downloads/Treinando/Exercício6/obj/",
+        "outputPath": "/home/daianarussi/Documentos/Treinando/Exercício6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daianarussi/.nuget/NuGet/NuGet.Config"
